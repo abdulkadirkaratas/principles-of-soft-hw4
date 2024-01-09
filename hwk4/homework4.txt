@@ -1,1 +1,15 @@
+-------------------------------------------------------------------------
+STEP a
 
+$ git config --global user.name "Abdulkadir Karatas"
+
+$ git config --global user.email "abdulkadirkaratas55@gmail.com"
+
+$ git config --global core.editor "VISUAL"
+
+$ git config --global --list
+user.email=abdulkadirkaratas55@gmail.com
+user.name=Abdulkadir Karatas
+credential.helper=manager
+core.editor=VISUAL
+--------------------------------------------------------------------------

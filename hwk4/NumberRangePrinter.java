@@ -19,7 +19,8 @@ public class NumberRangePrinter {
 
         System.out.println("Numbers between " + firstNumber + " and " + secondNumber + " (exclusive):");
         for (int i = firstNumber + 1; i < secondNumber; i++) {
-            System.out.print(i + " ");
+            if(firstNumber%2 == 1)
+                System.out.print(i + " ");
         }
     }
 }

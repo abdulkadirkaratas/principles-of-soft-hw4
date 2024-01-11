@@ -68,6 +68,19 @@ replay_pid*
 
 -----------------------------------------------------------------------------------------------
 
+STEP f
+
+What are all the commits you’ve made on the feature-1 branch?
+satisfying requirement one
+
+What files (and sub-directories, if any) are listed in your hmk1 directory on the feature-1 branch?
+NumberRangePrinter.java
+homework4.txt
+
+What files (and sub-directories if any) are listed in your hmk1 directory on the main branch?
+homework4.txt
+
+-----------------------------------------------------------------------------------------------
 
 
 

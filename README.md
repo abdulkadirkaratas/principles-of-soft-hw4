@@ -10,4 +10,4 @@ SOFT2101-Principles of Software Engineering-Fall 2023-hw#4
 
 - ***soft2101_hw4***
 
-- The web page of [The Department of Software Engineering of Işık University](https://pages.github.com/).
+- The web page of [The Department of Software Engineering of Işık University]([https://pages.github.com/](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi).

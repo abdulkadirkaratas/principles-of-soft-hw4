@@ -82,5 +82,12 @@ homework4.txt
 
 -----------------------------------------------------------------------------------------------
 
+STEP j
+
+What are all the commits you’ve made on the feature-2 branch?
+satisfying requirement change two
+satisfying requirement one
+
+-----------------------------------------------------------------------------------------------
 
 
